@@ -1,3 +1,16 @@
 Hello
 demo
+<<<<<<< HEAD
 DD
+=======
+
+<<<<<<< HEAD
+
+Daksh
+Sorathia
+=======
+ddd
+Daksh
+>>>>>>> master
+>>>>>>> afefb929885b185d4090cb74a3a690fe435804ec
+aaaa
