@@ -1,6 +1,8 @@
 Hello
 demo
 
+<<<<<<< HEAD
 
 Daksh
-Sorathia
+=======
+>>>>>>> master
